@@ -37,7 +37,7 @@ LOGIC DIAGRAM:
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
-
+```
 FSM:
 
 module fsm(clk,rst,x,y);
@@ -72,7 +72,7 @@ present=next;
 assign z=(present==s3);
 
 endmodule
-
+```
 
 OUTPUT:![screenshot Image 2024-04-13 at 13 19 50_0c877b3c](https://github.com/Mohanraj7896/VLSI-LAB-EXP-5/assets/166592482/32a0a3e0-9786-4c39-ae2b-0d03d03f11b4)
 
