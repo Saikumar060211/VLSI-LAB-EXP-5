@@ -87,4 +87,4 @@ OUTPUT:
 
 -----Place a Waveform Generated from Xilinx ISE------------
 
-RESULT:
+RESULT: Thus the simulate and synthesis finite state machine using vivado2023.3 is verified.
