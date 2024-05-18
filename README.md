@@ -59,7 +59,6 @@ present=s0;
 else
 present=next;
 assign z=(present==s3);
-
 endmodule
 ```
 
